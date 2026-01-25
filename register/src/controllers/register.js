@@ -4,6 +4,7 @@ const validate=require("../utils/validate")
 
 
 const User=require("../models/schema") 
+
 const register=async(req,res)=>{
     const {name,email,age,password,address}=req.body  
 

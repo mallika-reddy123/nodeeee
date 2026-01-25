@@ -112,3 +112,4 @@ const Resgister = () => {
   );
 };
 export default Resgister;
+
